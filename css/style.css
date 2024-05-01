@@ -1,8 +1,7 @@
-h1 {
-    color: red;
-}
-
 .container{
     display: flex;
     flex-direction: column;
+}
+article dt{
+    color: blue;
 }
